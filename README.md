@@ -14,7 +14,7 @@ The DAP is a unique program designed to empower participants with key skills in 
 - **`/resources`**: Additional tools, articles, and learning references.  
 
 ## 🚀 Features  
-- Hands-on exercises in Python, R, Power BI, and Excel.  
+- Hands-on exercises in Python, Power BI, and Excel.  
 - Case studies and real-world project scenarios.  
 - Resources to enhance your data analytics journey.  
 
