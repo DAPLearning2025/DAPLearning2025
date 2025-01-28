@@ -6,7 +6,7 @@ Welcome to the official GitHub repository for the **Data Analytics Program (DAP)
 The DAP is a unique program designed to empower participants with key skills in data analysis, visualization, and data-driven decision-making. The program focuses on practical applications and hands-on projects, preparing individuals for real-world challenges in the field of data analytics.
 
 ## 📂 Repository  
-- **`/materials`**: Lecture slides, guides, and reading materials.  
+- **[materials](https://github.com/DAPLearning2025/materials/tree/main)**: Lecture slides, guides, and reading materials.  
 - **`/projects`**: Code and datasets for program projects and assignments.  
 - **`/visualization tools`**: Python, Excel, and Power BI.
 - **`/Demos`**: ML, Python, Power BI, Power Query, and DAX.    
