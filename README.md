@@ -11,7 +11,7 @@ The DAP is a unique program designed to empower participants with key skills in 
 - **`/visualization tools`**: Python, Excel, and Power BI.
 - **[Demos](https://github.com/DAPLearning2025/materials/tree/main/week_3/Demos/Python)**: ML, Python, Power BI, Power Query, and DAX.    
 - **`/scripts`**: Useful Python scripts for data analysis.  
-- **`/resources`**: Additional tools, articles, and learning references.  
+- **`/resources & Data`**: Additional tools, articles, and learning references.  
 
 ## 🚀 Features  
 - Hands-on exercises in Python, Power BI, and Excel.  
